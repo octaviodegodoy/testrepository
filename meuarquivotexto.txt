@@ -1,8 +1,7 @@
 PGAFI24
 QWALB10
 
-de novo
-TABELA - APNFH		
+de novo		
 
 TIPO_NEGOCIO
 
