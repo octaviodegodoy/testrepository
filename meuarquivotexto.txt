@@ -3,7 +3,5 @@ QWALB10
 
 de novo		
 
-
-TOTAL_FRT_AMT
 TIPO_NEGOCIO
 
