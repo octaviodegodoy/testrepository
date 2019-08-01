@@ -1,7 +1,7 @@
 PGAFI24
 QWALB10
 
-campos que faltam no mapeamento
+de novo
 TABELA - APNFH		
 
 TIPO_NEGOCIO
