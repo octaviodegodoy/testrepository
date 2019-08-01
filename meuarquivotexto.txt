@@ -4,7 +4,5 @@ QWALB10
 campos que faltam no mapeamento
 TABELA - APNFH		
 
-
-TOTAL_FRT_AMT
 TIPO_NEGOCIO
 
